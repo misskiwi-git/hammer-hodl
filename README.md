@@ -20,7 +20,7 @@ vi .env
 ## Deploy
 
 ```bash
-npx hardhat run --network {network} "script/deploy.js"
+npx hardhat run --network {network} "scripts/deploy.js"
 ```
 
 ## Verify
